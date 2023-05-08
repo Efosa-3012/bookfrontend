@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencied to install in the client folder:
+npm install
+npm install axios mongoose jwt react-router-dom
+
 ## Available Scripts
 
 In the project directory, you can run:
